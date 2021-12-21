@@ -1,0 +1,14 @@
+package
+{
+   import com.goodgamestudios.cafe.view.BasicButton;
+   
+   public dynamic class big_btn_logout extends BasicButton
+   {
+       
+      
+      public function big_btn_logout()
+      {
+         super();
+      }
+   }
+}
